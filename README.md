@@ -1,46 +1,28 @@
-# Getting Started with Create React App and Redux
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://cdn-icons-png.flaticon.com/512/4051/4051419.png" alt="M" width="100"></a>
+  <br>
+  IdeaStorm
+  <br>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<h4 align="center">An idea sharing hub using React, Redux and Firebase</h4>
 
-## Available Scripts
+<p align="center">
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=HTML&message=Markup&color=2ea44f&logo=html" alt="HTML - Markup"></a>
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=CSS&message=Styling&color=yellowgreen&logo=CSS" alt="CSS - Styling"></a>
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=JavaScript&message=Language&color=orange&logo=javascript" alt="JavaScript - Language"></a>
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=React&message=Library&color=+blueviolet&logo=React" alt="React - Library"></a>
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=Redux&message=Architecture&color=informational&logo=Redux" alt="Redux - Architecture"></a>
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=Firebase&message=Auth&color=yellow&logo=Firebase" alt="Firebase - Auth"></a>
+</p>
 
-In the project directory, you can run:
+## Demo
 
-### `npm start`
+![screenshot](demo.gif)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![screenshot](login.png)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![screenshot](mainpage.png)
